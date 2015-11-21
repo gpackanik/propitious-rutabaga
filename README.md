@@ -1,2 +1,2 @@
-# propitious-rutabaga
+# test
 Testowe repozytorium
